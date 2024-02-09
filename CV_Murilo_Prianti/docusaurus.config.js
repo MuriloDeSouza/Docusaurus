@@ -90,15 +90,15 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/curriculo_Murilo_Prianti/Murilo_Prianti.md',
-              },
-            ],
-          },
+          // {
+          //   title: 'Docs',
+          //   items: [
+          //     {
+          //       label: 'Tutorial',
+          //       to: '/docs/curriculo_Murilo_Prianti/Murilo_Prianti.md',
+          //     },
+          //   ],
+          // },
           {
             title: 'Community',
             items: [
