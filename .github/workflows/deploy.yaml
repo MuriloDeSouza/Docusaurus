@@ -15,7 +15,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: ./Docusaurus
+        working-directory: ./CV_Murilo_Prianti/docs/curriculo_Murilo_Prianti
     steps:
       - uses: actions/checkout@v4
         with:
@@ -33,7 +33,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./Docusaurus/CV_Murilo_Prianti
+          path: ./CV_Murilo_Prianti/docs/build
 
   deploy:
     name: Deploy to GitHub Pages
