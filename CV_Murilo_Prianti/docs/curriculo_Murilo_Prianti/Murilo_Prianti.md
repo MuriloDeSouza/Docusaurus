@@ -1,3 +1,9 @@
+---
+title: Curriculo Murilo Prianti
+sidebar_position: 1
+slug: /
+---
+
 # Murilo de Souza Prianti Silva
 
 * Nome: **Murilo de Souza Prianti Silva**
